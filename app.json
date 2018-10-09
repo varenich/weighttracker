@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "weighttracker",
-    "description": "This project is really great.",
-    "slug": "weighttracker",
+    "name": "Simple weight tracker",
+    "description": "The simplest weight tracker ever. Just to save weight, waist and breast mesures",
+    "slug": "simple-weight-tracker",
     "privacy": "public",
     "sdkVersion": "30.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/varenich/weighttracker.git"
   }
 }
